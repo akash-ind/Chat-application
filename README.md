@@ -1,3 +1,3 @@
 # Chat Application
 
-Tried to make an app to connect with different random users on internet.
+Uses Python sockets to connect to a user going through a remote server
